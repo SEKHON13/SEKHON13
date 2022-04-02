@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...wellbeing
 - 🌱 I’m currently learning ...how to stay content.
 - 💞️ I’m looking to collaborate on ...how to make lives better for all of us.
-- 📫 How to reach me ... please leave message on GH
+- 📫 How to reach me ... info@BlockingThe99.io
 
 <!---
 SEKHON13/SEKHON13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
